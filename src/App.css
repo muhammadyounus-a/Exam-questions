@@ -1,0 +1,58 @@
+.txt {
+    -webkit-text-fill-color: transparent;
+    background-image: linear-gradient(158deg, #00e5d1 3%, #2577f9 99%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    display: inline;
+}
+
+h6 {
+    color: #fff;
+    border: 1px solid;
+    border-image: linear-gradient(130deg, #01e3d2, #23aff7);
+    border-image-slice: 1;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 25px;
+    padding: 5px 10px;
+}
+
+.img-1{
+    background-image: url('assets/Product-img-1.webp');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 550px;
+    width: 550px; 
+}
+
+.img-2{
+    background-image: url('assets/Product-img-4.webp');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 550px;
+    width: 550px; 
+}
+
+.img-3{
+    background-image: url('assets/Product-img-3.webp');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 550px;
+    width: 550px; 
+}
+
+/* .img-4{
+    background-image: url('assets/Product-img-2.webp');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 550px;
+    width: 550px; 
+} */
+
+.img-5{
+    background-image: url('assets/Product-img-5.webp');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 550px;
+    width: 550px; 
+}
